@@ -42,4 +42,3 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
-pip install marisa-trie

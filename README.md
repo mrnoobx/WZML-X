@@ -250,7 +250,7 @@ sudo pacman -S docker python
 - Install dependencies for running setup scripts:
 
 ```
-pip3 install -r requirements-cli.txt
+pip install --no-binary :all: marisa-trie
 ```
     
   </details></li>

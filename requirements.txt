@@ -32,7 +32,6 @@ pycountry
 pymongo
 pyrogram
 python-dotenv
-python-dev
 python-magic
 qbittorrent-api
 requests

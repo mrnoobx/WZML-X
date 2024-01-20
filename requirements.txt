@@ -23,7 +23,6 @@ langcodes[data]
 lxml
 motor
 mutagen
-marisa-trie
 markdown
 natsort
 pillow

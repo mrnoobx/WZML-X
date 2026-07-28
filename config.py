@@ -163,8 +163,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/mrnoobx/WZML-X"
+UPSTREAM_BRANCH = "wzv3"
 # Leech
 LEECH_SPLIT_SIZE = 0
 AS_DOCUMENT = False
